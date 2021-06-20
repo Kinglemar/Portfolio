@@ -17,7 +17,7 @@ My name is Dimeji Michael Ogunleye,I’d like to indicate my interest in the job
 <br>
 In response to the specific requirements and knowledge of this position I would like to highlight how my experience and relevant skills makes me a candidate for this position. <br>
 <br>
-•	Experience in web development and I can use HTML, CSS and JavaScript to a proficient level.<br>
+•	Experience in web development and I can use HTML, CSS, JavaScript to a proficient level. I also have experience in using ReactJs and VueJs<br>
 •	Putting my skills to online challenges and hosting them remotely.<br>
 •	Intermediate knowledge of PHP.<br>
 •	Basic graphic design skills.<br>

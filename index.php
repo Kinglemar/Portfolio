@@ -30,13 +30,14 @@
             <div>
                 <h3>WORK EXPERIENCE</h3>
 
-                <h4>SOFTWARE ENGINEERING INTERN, ENVIVO COMMUNICATIONS, LAGOS, NIGERIA</h4>
+                <h4>SOFTWARE ENGINEERING INTERN, ENVIVO COMMUNICATIONS, LAGOS, NIGERIA(REMOTE)</h4>
                 <i>2020 - 07 to Date</i>
 
                 <ul>
                     <li>Taking part in team projects</li>
                     <li>Completing tasks given to me by my co-ordinator</li>
                     <li>Learning programming languages</li>
+                    <li>Task reviews with my cohorts</li>
                 </ul>
 
 

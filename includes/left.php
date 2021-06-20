@@ -37,6 +37,8 @@
         <ul>
             <li>HTML & CSS</li>
             <li>JavaScript</li>
+            <li>ReactJs</li>
+            <li>VueJs</li>
             <li><?= 'PHP';?></li>
             <li>Software installation </li>
             <li>IT Support</li>
