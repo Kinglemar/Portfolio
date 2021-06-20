@@ -39,8 +39,9 @@
             <li>JavaScript</li>
             <li>ReactJs</li>
             <li>VueJs</li>
+            <li>Github</li>
             <li><?= 'PHP';?></li>
-            <li>Software installation </li>
+            <li>Software installation</li>
             <li>IT Support</li>
             <li>Microsoft Office</li>
             <li>Creativity</li>
